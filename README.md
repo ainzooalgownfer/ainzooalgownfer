@@ -35,7 +35,7 @@ I’m an L3 Informatique student in France passionate about **data-driven applic
 ## Technologies & Skills
 - **Programming Languages:** Java, Python, R, PHP, HTML/CSS, JavaScript, PL/SQL , C/C++ , C#
 - **Frameworks & Libraries:** Spring Boot, Blazor (.NET), Spring Framework  
-- **Tools & Databases:** MySQL, oracleSQL, Microsoft SQL server Git, VS Code  
+- **Tools & Databases:** MySQL, oracleSQL, Microsoft SQL server, Git, VS Code  
 - **Other Skills:** Data Analysis, API Development, Software Architecture, Formal Methods (Coq)  
 
 ---
