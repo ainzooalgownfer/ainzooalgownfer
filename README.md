@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there , I'm Mohamed Ferrera
 
-<!--
-**ainzooalgownfer/ainzooalgownfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an L3 Informatique student in France passionate about data-driven applications. I focus on building projects that combine backend logic, data management, and efficient data processing.
 
-Here are some ideas to get you started:
+ Web Development Experience
+ 
+Java & Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developed a REST API for an absence management system
+Implemented JWT authentication, secure endpoints, and database operations
+Managed complex business logic for scheduling and absence tracking
+
+.NET & Blazor
+
+Built interactive web applications for employee form management
+Implemented features like search, filtering, and PDF exports
+Organized projects with DbContexts, models, and services for maintainable architecture
+
+ Data Interests
+
+Developing projects involving data management and analysis
+Exploring how backend systems interact with databases and handle real-world data
+Interested in optimizing data flows and building data-driven applications
+
+ Interests
+
+Web Development (Java Spring Boot & Blazor .NET)
+Backend & API Development
+Data Management & Analysis
+Software Architecture & Problem Solving
+
+ Contact Me
+
+Email: mohamed.ferrera-ahl-sbai4@etu.univ-lorraine.fr
+
+Languages: French, Spanish, English
