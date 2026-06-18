@@ -31,9 +31,9 @@
 I am a Master's student in Computer Science (Informatique) in France, deeply passionate about data-driven applications. My academic and professional focus centers on building robust projects that seamlessly combine backend logic, data management, and efficient data processing. I thrive on exploring how backend systems interact with databases to handle real-world data, optimizing data flows, and architecting scalable software solutions.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/French-Native-002395?style=flat-square" />
+  <img src="https://img.shields.io/badge/French-Fluent-002395?style=flat-square" />
   <img src="https://img.shields.io/badge/English-Fluent-012169?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spanish-Intermediate-AA151B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spanish-native-AA151B?style=flat-square" />
 </div>
 
 **Open To:** Backend & API Development | Data Management & Analysis | Software Architecture & Problem Solving
@@ -44,7 +44,8 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,html,css,plsql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,plsql&theme=dark" />
 </div>
 
 <div align="center">
@@ -54,7 +55,8 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 <div align="center">
   <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,postgresql,mysql,oracle,mssql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,oracle,mssql&theme=dark" />
   <img src="https://img.shields.io/badge/Apache_Camel-8A2BE2?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
