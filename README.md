@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/mohamedferrera"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohamed.ferrera-ahl-sbai4@etu.univ-lorraine.fr"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mohamed.ferrera@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/ainzooalgownfer"><img src="https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
