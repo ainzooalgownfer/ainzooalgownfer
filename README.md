@@ -63,7 +63,6 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 <div align="center">
   <h4>Cloud, DevOps & Tools</h4>
   <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,neovim&theme=dark" />
-  <img src="https://img.shields.io/badge/Coq-Formal_Methods-8A2BE2?style=for-the-badge&logo=coq&logoColor=white" />
 </div>
 
 ---
@@ -112,13 +111,6 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ainzooalgownfer&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
-</div>
-
----
 
 ### Contribution Activity
 
@@ -153,6 +145,7 @@ Exploring:
   - Software Architecture
   - Formal Methods (Coq)
   - Advanced Database Optimization
+  - Cloud (Azure, AWS)
 Open To:
   - Backend Development Roles
   - Data Analysis Opportunities
