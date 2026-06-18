@@ -44,17 +44,18 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,python,r,php,js,go,cs,cpp,c,html,css,plsql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,r,php,js,ts,go,cs,html,css,plsql&theme=dark" />
 </div>
 
 <div align="center">
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=nextjs,blazor,html,css,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,blazor,html,css,js,react,ts&theme=dark" />
 </div>
 
 <div align="center">
   <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,mysql,oracle,mssql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,mysql,oracle,mssql,postgresql&theme=dark" />
+  <img src="https://img.shields.io/badge/Apache_Camel-8A2BE2?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 <div align="center">
@@ -65,13 +66,13 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 ---
 
-### Data & Software Expertise
+### Data & Backend Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
 | **Data Management** | Advanced | Optimizing data flows, DB interactions, and handling real-world data pipelines. |
 | **Backend Architecture** | Advanced | Designing REST APIs, JWT authentication, and complex business logic implementation. |
-| **Full Stack Development** | Intermediate | Building interactive web applications with .NET/Blazor and modern JS frameworks. |
+| **Full Stack Development** | Intermediate | Building interactive web applications with .NET/Blazor, Next.js, and modern JS/TS frameworks. |
 | **Formal Methods** | Intermediate | Software verification, logic modeling, and architectural problem solving using Coq. |
 
 ---
@@ -85,7 +86,7 @@ A secure and scalable REST API designed for comprehensive scheduling and absence
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Java, Spring Boot, MySQL | Enterprise | High-throughput API | JWT Auth, Secure Endpoints | Streamlined absence tracking | [View Code](#) |
+| Java, Spring Boot, PostgreSQL | Enterprise | High-throughput API | JWT Auth, Secure Endpoints | Streamlined absence tracking | [View Code](#) |
 
 **Professional Explanation:**
 Developed a comprehensive backend system managing complex scheduling rules. Implemented JWT-based authentication to secure endpoints and managed intricate database operations to ensure data integrity for absence tracking. Optimized business logic to handle real-world scheduling constraints efficiently.
@@ -112,7 +113,7 @@ Built a maintainable full-stack application utilizing DbContexts, models, and se
 *   Developed a secure REST API for an enterprise-grade absence management system.
 *   Implemented JWT authentication and secured critical endpoints against unauthorized access.
 *   Managed complex business logic for scheduling algorithms and real-time absence tracking.
-*   `Java` `Spring Boot` `MySQL` `JWT` `REST API`
+*   `Java` `Spring Boot` `PostgreSQL` `JWT` `REST API`
 
 **Full Stack Developer** | *University of Lorraine* | *2022 - 2023*
 *   Built interactive web applications for comprehensive employee form management.
@@ -122,68 +123,33 @@ Built a maintainable full-stack application utilizing DbContexts, models, and se
 
 ---
 
-### Achievements
 
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **Academic Excellence** | Consistently high performance in Master's and L3 Informatique core modules. |
-| **Full Stack Proficiency** | Successfully delivered end-to-end applications using Java/Spring and .NET/Blazor. |
-| **Data Architecture** | Demonstrated advanced capability in designing scalable database schemas and data flows. |
-
-</div>
-
----
-
-### Certifications
-
-<div align="center">
-  <h4>AWS</h4>
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
-<div align="center">
-  <h4>Oracle</h4>
-  <img src="https://img.shields.io/badge/Oracle_Database_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Java_SE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
-
-<div align="center">
-  <h4>NPTEL</h4>
-  <img src="https://img.shields.io/badge/NPTEL_Data_Structures-008000?style=for-the-badge&logo=iit&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL_DBMS-008000?style=for-the-badge&logo=iit&logoColor=white" />
-</div>
-
-<div align="center">
-  <h4>Cisco</h4>
-  <img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
----
-
-### Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/mohamedferrera"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mohamedferrera"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/mohamedferrera"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/mohamedferrera"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</div>
 
 ---
 
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedferrera&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedferrera&theme=midnight-purple&hide_border=true&bg_color=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ainzooalgownfer&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ainzooalgownfer&theme=midnight-purple&hide_border=true&bg_color=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="180px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedferrera&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFF" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ainzooalgownfer&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFF" height="180px" />
+</div>
+
+---
+
+### Commits & Activity Dashboard
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ainzooalgownfer&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ainzooalgownfer&theme=github_dark&utcOffset=2" height="250px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ainzooalgownfer&theme=github_dark" height="250px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ainzooalgownfer&theme=github_dark" height="250px" />
 </div>
 
 ---
@@ -191,7 +157,7 @@ Built a maintainable full-stack application utilizing DbContexts, models, and se
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedferrera&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ainzooalgownfer&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" />
 </div>
 
 ---
@@ -199,7 +165,7 @@ Built a maintainable full-stack application utilizing DbContexts, models, and se
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedferrera&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=4B0082&point=8A2BE2&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ainzooalgownfer&theme=react-dark&bg_color=0D1117&color=8A2BE2&line=4B0082&point=8A2BE2&area=true&hide_border=true" />
 </div>
 
 ---
@@ -220,6 +186,7 @@ Learning:
   - Next.js
   - FastAPI
   - Docker
+  - Apache Camel
 Building:
   - Data-driven backend applications
   - Scalable REST APIs
