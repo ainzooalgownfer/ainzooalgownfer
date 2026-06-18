@@ -15,13 +15,13 @@
   <a href="https://mohamedferrera.com"><img src="https://img.shields.io/badge/Portfolio-Visit-6A0DAD?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mohamedferrera"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohamed.ferrera-ahl-sbai4@etu.univ-lorraine.fr"><img src="https://img.shields.io/badge/Email-Contact-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/mohamedferrera"><img src="https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ainzooalgownfer"><img src="https://img.shields.io/badge/GitHub-Follow-9370DB?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedferrera&label=Profile%20Views&color=8A2BE2&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/mohamedferrera?label=Followers&style=flat-square&color=4B0082" />
-  <img src="https://img.shields.io/github/stars/mohamedferrera?label=Stars&style=flat-square&color=6A0DAD" />
+  <img src="https://komarev.com/ghpvc/?username=ainzooalgownfer&label=Profile%20Views&color=8A2BE2&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ainzooalgownfer?label=Followers&style=flat-square&color=4B0082" />
+  <img src="https://img.shields.io/github/stars/ainzooalgownfer?label=Stars&style=flat-square&color=6A0DAD" />
 </div>
 
 ---
@@ -77,51 +77,7 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 ---
 
-### Featured Projects
 
-<details open>
-<summary><h3>Absence Management REST API</h3></summary>
-
-A secure and scalable REST API designed for comprehensive scheduling and absence tracking, featuring complex business logic and robust authentication.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Java, Spring Boot, PostgreSQL | Enterprise | High-throughput API | JWT Auth, Secure Endpoints | Streamlined absence tracking | [View Code](#) |
-
-**Professional Explanation:**
-Developed a comprehensive backend system managing complex scheduling rules. Implemented JWT-based authentication to secure endpoints and managed intricate database operations to ensure data integrity for absence tracking. Optimized business logic to handle real-world scheduling constraints efficiently.
-</details>
-
-<details>
-<summary><h3>Employee Form Management System</h3></summary>
-
-An interactive, data-driven web application for managing employee forms, featuring advanced search, filtering, and automated PDF generation.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| .NET, Blazor, MS SQL Server | Mid-size | Optimized Queries | Role-based Access | Automated reporting | [View Code](#) |
-
-**Professional Explanation:**
-Built a maintainable full-stack application utilizing DbContexts, models, and services. Implemented dynamic search and filtering capabilities for large datasets, alongside automated PDF exports. Focused on clean architecture to ensure long-term maintainability and scalable data management.
-</details>
-
----
-
-### Experience
-
-**Backend Developer** | *University of Lorraine* | *2023 - Present*
-*   Developed a secure REST API for an enterprise-grade absence management system.
-*   Implemented JWT authentication and secured critical endpoints against unauthorized access.
-*   Managed complex business logic for scheduling algorithms and real-time absence tracking.
-*   `Java` `Spring Boot` `PostgreSQL` `JWT` `REST API`
-
-**Full Stack Developer** | *University of Lorraine* | *2022 - 2023*
-*   Built interactive web applications for comprehensive employee form management.
-*   Implemented advanced features including dynamic search, data filtering, and PDF exports.
-*   Organized projects using DbContexts, models, and services to ensure a maintainable architecture.
-*   `.NET` `Blazor` `C#` `MS SQL Server` `Entity Framework`
-
----
 
 
 
@@ -173,7 +129,7 @@ Built a maintainable full-stack application utilizing DbContexts, models, and se
 ### Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ---
@@ -186,7 +142,7 @@ Learning:
   - Next.js
   - FastAPI
   - Docker
-  - Apache Camel
+  - Camel
 Building:
   - Data-driven backend applications
   - Scalable REST APIs
