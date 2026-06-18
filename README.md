@@ -45,18 +45,19 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 <div align="center">
   <h4>Languages</h4>
   <img src="https://skillicons.dev/icons?i=go,ts,js,python,java&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,plsql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </div>
 
 <div align="center">
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,blazor&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,dotnet&theme=dark" />
+  <img src="https://img.shields.io/badge/Blazor-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
 <div align="center">
   <h4>Backend & Databases</h4>
   <img src="https://skillicons.dev/icons?i=fastapi,spring,django&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=postgresql,mysqll&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark" />
   <img src="https://img.shields.io/badge/Apache_Camel-8A2BE2?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
