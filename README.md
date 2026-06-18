@@ -44,24 +44,24 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,python,r,php,js,ts,go,cs,html,css,plsql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java,html,css,plsql&theme=dark" />
 </div>
 
 <div align="center">
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=nextjs,blazor,html,css,js,react,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,blazor&theme=dark" />
 </div>
 
 <div align="center">
   <h4>Backend & Databases</h4>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,django,mysql,oracle,mssql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,django,postgresql,mysql,oracle,mssql&theme=dark" />
   <img src="https://img.shields.io/badge/Apache_Camel-8A2BE2?style=for-the-badge&logo=apache&logoColor=white" />
 </div>
 
 <div align="center">
-  <h4>Cloud, DevOps & Tooling</h4>
-  <img src="https://skillicons.dev/icons?i=docker,git,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Coq-Formal_Methods-8A2BE2?style=flat-square&logo=coq&logoColor=white" />
+  <h4>Cloud, DevOps & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode,neovim&theme=dark" />
+  <img src="https://img.shields.io/badge/Coq-Formal_Methods-8A2BE2?style=for-the-badge&logo=coq&logoColor=white" />
 </div>
 
 ---
