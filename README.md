@@ -43,7 +43,7 @@ I am a Master's student in Computer Science (Informatique) in France, deeply pas
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,ts,python,java&theme=dark" />
   <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </div>
 
